@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\netcoreapp3.1\IteracionArreglos.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\netcoreapp3.1\IteracionArreglos.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\netcoreapp3.1\IteracionArreglos.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\netcoreapp3.1\IteracionArreglos.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\netcoreapp3.1\IteracionArreglos.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\bin\Debug\netcoreapp3.1\IteracionArreglos.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\IteracionArreglos\IteracionArreglos\obj\Debug\netcoreapp3.1\IteracionArreglos.genruntimeconfig.cache

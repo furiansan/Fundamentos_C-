@@ -1,0 +1,13 @@
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\bin\Debug\netcoreapp3.1\UsoArreglos.exe
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\bin\Debug\netcoreapp3.1\UsoArreglos.deps.json
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\bin\Debug\netcoreapp3.1\UsoArreglos.runtimeconfig.json
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\bin\Debug\netcoreapp3.1\UsoArreglos.runtimeconfig.dev.json
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\bin\Debug\netcoreapp3.1\UsoArreglos.dll
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\bin\Debug\netcoreapp3.1\UsoArreglos.pdb
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.csprojAssemblyReference.cache
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.AssemblyInfoInputs.cache
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.AssemblyInfo.cs
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.csproj.CoreCompileInputs.cache
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.dll
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.pdb
+C:\Users\furia\source\repos\UsoArreglos\UsoArreglos\obj\Debug\netcoreapp3.1\UsoArreglos.genruntimeconfig.cache

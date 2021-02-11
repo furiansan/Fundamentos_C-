@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\netcoreapp3.1\Tablas de multiplicar.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\netcoreapp3.1\Tablas de multiplicar.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\netcoreapp3.1\Tablas de multiplicar.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\netcoreapp3.1\Tablas de multiplicar.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\netcoreapp3.1\Tablas de multiplicar.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\bin\Debug\netcoreapp3.1\Tablas de multiplicar.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Tablas de multiplicar\Tablas de multiplicar\obj\Debug\netcoreapp3.1\Tablas de multiplicar.genruntimeconfig.cache

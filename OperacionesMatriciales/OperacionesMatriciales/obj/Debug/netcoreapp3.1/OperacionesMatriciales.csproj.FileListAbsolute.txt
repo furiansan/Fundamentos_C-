@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\bin\Debug\netcoreapp3.1\OperacionesMatriciales.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\bin\Debug\netcoreapp3.1\OperacionesMatriciales.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\bin\Debug\netcoreapp3.1\OperacionesMatriciales.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\bin\Debug\netcoreapp3.1\OperacionesMatriciales.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\bin\Debug\netcoreapp3.1\OperacionesMatriciales.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\bin\Debug\netcoreapp3.1\OperacionesMatriciales.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\OperacionesMatriciales\OperacionesMatriciales\obj\Debug\netcoreapp3.1\OperacionesMatriciales.genruntimeconfig.cache

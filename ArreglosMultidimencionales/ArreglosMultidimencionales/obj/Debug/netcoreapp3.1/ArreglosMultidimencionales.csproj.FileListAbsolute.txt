@@ -1,0 +1,13 @@
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.csprojAssemblyReference.cache
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.AssemblyInfoInputs.cache
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.AssemblyInfo.cs
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\bin\Debug\netcoreapp3.1\ArreglosMultidimencionales.exe
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\bin\Debug\netcoreapp3.1\ArreglosMultidimencionales.deps.json
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\bin\Debug\netcoreapp3.1\ArreglosMultidimencionales.runtimeconfig.json
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\bin\Debug\netcoreapp3.1\ArreglosMultidimencionales.runtimeconfig.dev.json
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\bin\Debug\netcoreapp3.1\ArreglosMultidimencionales.dll
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\bin\Debug\netcoreapp3.1\ArreglosMultidimencionales.pdb
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.dll
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.pdb
+C:\Users\furia\source\repos\ArreglosMultidimencionales\ArreglosMultidimencionales\obj\Debug\netcoreapp3.1\ArreglosMultidimencionales.genruntimeconfig.cache

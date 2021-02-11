@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\bin\Debug\netcoreapp3.1\PromCalificaciones.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\bin\Debug\netcoreapp3.1\PromCalificaciones.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\bin\Debug\netcoreapp3.1\PromCalificaciones.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\bin\Debug\netcoreapp3.1\PromCalificaciones.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\bin\Debug\netcoreapp3.1\PromCalificaciones.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\bin\Debug\netcoreapp3.1\PromCalificaciones.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\PromCalificaciones\PromCalificaciones\obj\Debug\netcoreapp3.1\PromCalificaciones.genruntimeconfig.cache

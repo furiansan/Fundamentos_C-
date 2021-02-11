@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\LeerTeclado\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.genruntimeconfig.cache

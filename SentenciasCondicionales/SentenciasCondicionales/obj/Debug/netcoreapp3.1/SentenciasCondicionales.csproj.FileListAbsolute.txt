@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\netcoreapp3.1\SentenciasCondicionales.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\netcoreapp3.1\SentenciasCondicionales.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\netcoreapp3.1\SentenciasCondicionales.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\netcoreapp3.1\SentenciasCondicionales.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\netcoreapp3.1\SentenciasCondicionales.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\bin\Debug\netcoreapp3.1\SentenciasCondicionales.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\SentenciasCondicionales\SentenciasCondicionales\obj\Debug\netcoreapp3.1\SentenciasCondicionales.genruntimeconfig.cache

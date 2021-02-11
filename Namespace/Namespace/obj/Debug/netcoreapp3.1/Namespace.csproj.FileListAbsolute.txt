@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\bin\Debug\netcoreapp3.1\Namespace.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\bin\Debug\netcoreapp3.1\Namespace.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\bin\Debug\netcoreapp3.1\Namespace.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\bin\Debug\netcoreapp3.1\Namespace.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\bin\Debug\netcoreapp3.1\Namespace.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\bin\Debug\netcoreapp3.1\Namespace.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\Namespace\Namespace\obj\Debug\netcoreapp3.1\Namespace.genruntimeconfig.cache

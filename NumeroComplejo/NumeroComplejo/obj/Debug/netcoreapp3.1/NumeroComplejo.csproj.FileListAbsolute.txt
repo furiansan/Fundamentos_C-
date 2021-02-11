@@ -1,0 +1,13 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\bin\Debug\netcoreapp3.1\NumeroComplejo.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\bin\Debug\netcoreapp3.1\NumeroComplejo.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\bin\Debug\netcoreapp3.1\NumeroComplejo.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\bin\Debug\netcoreapp3.1\NumeroComplejo.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\bin\Debug\netcoreapp3.1\NumeroComplejo.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\bin\Debug\netcoreapp3.1\NumeroComplejo.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.csprojAssemblyReference.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\NumeroComplejo\NumeroComplejo\obj\Debug\netcoreapp3.1\NumeroComplejo.genruntimeconfig.cache

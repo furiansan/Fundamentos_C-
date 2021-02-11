@@ -1,0 +1,12 @@
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\bin\Debug\netcoreapp3.1\TiposPredefinidos.exe
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\bin\Debug\netcoreapp3.1\TiposPredefinidos.deps.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\bin\Debug\netcoreapp3.1\TiposPredefinidos.runtimeconfig.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\bin\Debug\netcoreapp3.1\TiposPredefinidos.runtimeconfig.dev.json
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\bin\Debug\netcoreapp3.1\TiposPredefinidos.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\bin\Debug\netcoreapp3.1\TiposPredefinidos.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\obj\Debug\netcoreapp3.1\TiposPredefinidos.AssemblyInfoInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\obj\Debug\netcoreapp3.1\TiposPredefinidos.AssemblyInfo.cs
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\obj\Debug\netcoreapp3.1\TiposPredefinidos.csproj.CoreCompileInputs.cache
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\obj\Debug\netcoreapp3.1\TiposPredefinidos.dll
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\obj\Debug\netcoreapp3.1\TiposPredefinidos.pdb
+C:\Users\furia\Documents\Visual Studio 2019\Projects\TiposPredefinidos\TiposPredefinidos\obj\Debug\netcoreapp3.1\TiposPredefinidos.genruntimeconfig.cache
